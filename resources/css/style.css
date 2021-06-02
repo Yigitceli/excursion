@@ -1,0 +1,61 @@
+html{
+    background-color: black;
+}
+header{
+    text-align: center;
+}
+.Başlık{
+    color: white;    
+    font-family: Verdana;
+    font-weight: normal;
+}
+header h1{ 
+    font-size: 50px;
+}
+#Link{
+    
+    text-align: center;
+
+}
+#Link a{
+    color: aquamarine;
+    font-size: 16px;
+}
+#Video{
+    margin-top: 15px;
+}
+#content h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+#content h3{
+    color: gray;
+    font-size: 23px;
+}
+#content#camp{
+    width: 825px;
+    height: 500px;
+}
+#content{
+    text-align: center;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+footer h2{
+    color: white;
+    font-size: 50px;
+
+}
+footer a{
+    color: aquamarine;
+
+}
+footer p{
+    color:gray;
+    font-weight: lighter;
+    font-family: Verdana;
+    text-align: right;
+    font-size: 25px;
+}
